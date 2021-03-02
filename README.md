@@ -1,5 +1,8 @@
 # Project 3 - *MineSweeper*
 
+**MineSweeper** is a class assignment that requires to use Visual Studio 2019 as the IDE and C# programming language. The appropriate VS19 project
+type for this is assignment is "Windows Forms App (.NET Framework)/C#".
+
 **MineSweeper** is a single-player puzzle video game. The objective of the game is to clear a
 rectangular board containing hidden "mines" or bombs without detonating any of them, with
 help from clues about the number of neighboring mines in each field.
